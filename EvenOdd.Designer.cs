@@ -1,6 +1,6 @@
 ﻿namespace EvenOdd
 {
-    partial class Form1
+    partial class EvenOdd
     {
         /// <summary>
         /// Required designer variable.
